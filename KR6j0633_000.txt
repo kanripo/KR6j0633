@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大金剛香陀羅尼經
+#+DATE: 2015-08-30 20:36:47.362469
+#+PROPERTY: JUAN 0
